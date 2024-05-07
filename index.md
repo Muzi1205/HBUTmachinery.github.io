@@ -7,7 +7,7 @@
 
 ## 目前已有图纸汇总
                       
-<p><a> href="https://github.com/akawzx1001/24-xingquanxianglunlunzu.git" class="theme-btn btn-style-one">24-新全向轮轮组-1.0</a></p>
+<p><a href="https://github.com/akawzx1001/24-xingquanxianglunlunzu.git" class="theme-btn btn-style-one">24-新全向轮轮组-1.0</a></p>
                               
 24-新全向轮轮组-1.0  https://github.com/akawzx1001/24-xingquanxianglunlunzu.git
 
