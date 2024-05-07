@@ -6,7 +6,9 @@
    2024 5.7王振昕更新了已有图纸汇总
 
 ##目前已有图纸汇总
-
+                       <div class="link-btn">
+                                    <a href="https://github.com/akawzx1001/24-xingquanxianglunlunzu.git" class="theme-btn btn-style-one">24-新全向轮轮组-1.0</a>
+                                </div>
 24-新全向轮轮组-1.0  https://github.com/akawzx1001/24-xingquanxianglunlunzu.git
 
 24-英雄-1.1  https://github.com/akawzx1001/24-yingxiong-1.1.git
