@@ -1,10 +1,35 @@
 ---
 layout: default
 ---
+此仓库为机械组日志文档
+
+
 5.7王振昕更新了 24-新全向轮轮组-1.0 https://github.com/akawzx1001/24-xingquanxianglunlunzu.git
 
-5464654656
-12315231
+https://github.com/akawzx1001/24-duolunshuangtou-1.0.git
+
+https://github.com/akawzx1001/24-wurenji-1.0.git
+
+https://github.com/akawzx1001/24-xinquanxianglun.git
+
+https://github.com/akawzx1001/24-gongcheng-2.0.git
+
+https://github.com/akawzx1001/24-kuangjiashigongchen-2.0.git
+
+https://github.com/akawzx1001/24-quanxianglunbubin-1.1.git
+
+https://github.com/akawzx1001/24-feibiao-1.0.git
+
+https://github.com/akawzx1001/23-feibiaojia-1.0.git
+
+https://github.com/akawzx1001/23-shuangpintaishaobin-1.0.git
+
+5.7王振昕更新了 22-英雄-1.0 https://github.com/akawzx1001/22-yingxiong-1.0.git
+
+https://github.com/akawzx1001/22-mailunbubin3hao-1.1.git
+
+https://github.com/akawzx1001/22-17mmbopan-1.0.git
+
 
 此仓库为机械组日志文档
 
