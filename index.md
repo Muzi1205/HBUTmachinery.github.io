@@ -6,6 +6,8 @@
    2024 5.7王振昕更新了已有图纸汇总
 
 ## 目前已有图纸汇总
+
+<p><a href="https://github.com/akawzx1001/24-pinheng-1.0.git" class="theme-btn btn-style-one">24-平衡-1.0</a></p>
                       
 <p><a href="https://github.com/akawzx1001/24-xingquanxianglunlunzu.git" class="theme-btn btn-style-one">24-新全向轮轮组-1.0</a></p>
                               
